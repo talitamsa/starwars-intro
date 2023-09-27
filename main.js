@@ -1,5 +1,5 @@
 // main.js
-import './stars';
-import './intro';
-import './logo';
+import './stars.js';
+import './intro.js';
+import './logo.js';
 
